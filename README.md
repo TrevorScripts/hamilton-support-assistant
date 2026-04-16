@@ -38,7 +38,7 @@ live call.
 
 ## How to Use
 
-1. Open the app in a browser
+1. Open the app in a browser - https://hamilton-app.netlify.app/
 2. Enter your Anthropic API key when prompted (stored in memory only)
 3. Select either **Call Intake** or **Help Center** mode
 4. Type the customer's vehicle information or issue description
@@ -46,7 +46,7 @@ live call.
 
 ## Purpose
 
-Built during onboarding at Hamilton Motor Company to reduce average 
+Built for onboarding at Hamilton Motor Company to reduce average 
 handle time and give support agents a faster, more consistent way to 
 match customers to the right product. Demonstrates practical LLM 
 deployment in a customer-facing support context.
