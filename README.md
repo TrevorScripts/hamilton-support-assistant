@@ -39,8 +39,7 @@ live call.
 ## How to Use
 
 1. Open the app in a browser - https://hamilton-app.netlify.app/
-2. Enter your Anthropic API key when prompted (stored in memory only)
-3. Select either **Call Intake** or **Help Center** mode
+2. Select either **Call Intake** or **Help Center** mode
 4. Type the customer's vehicle information or issue description
 5. The assistant returns structured guidance and relevant resources
 
